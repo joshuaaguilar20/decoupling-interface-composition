@@ -1,8 +1,6 @@
 package main
 
-// All material is licensed under the Apache License Version 2.0, January 2004
-// https://play.golang.org/p/uB4c33sbfj
-// Sample program demonstrating decoupling with interface composition.
+
 
 import "fmt"
 
